@@ -1,0 +1,17 @@
+{
+  "log_level": "Debug",
+  "device": {
+    "name": "MixTrack",
+    "notes": {
+      "66": {
+        "type": "note_on",
+        "value": 127,
+        "action": {
+          "type": "keyboard",
+          "key": "space",
+          "modifiers": []
+        }
+      }
+    }
+  }
+}
